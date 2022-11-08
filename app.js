@@ -94,3 +94,4 @@ function displayMushrooms() {
 
 displayFriends();
 displayMushrooms();
+//display
